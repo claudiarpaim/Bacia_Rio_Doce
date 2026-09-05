@@ -1,13 +1,6 @@
-# ==========================================
-# Bacia do Rio Doce - Git Ignore
-# ==========================================
-
-# ------------------------------------------
 # Python
-# ------------------------------------------
 __pycache__/
 *.py[cod]
-*$py.class
 *.so
 
 # Ambientes virtuais
@@ -16,69 +9,45 @@ venv/
 env/
 ENV/
 
-# ------------------------------------------
-# Jupyter Notebook
-# ------------------------------------------
+# Jupyter
 .ipynb_checkpoints/
 
-# ------------------------------------------
-# Dados temporários / arquivos locais
-# ------------------------------------------
+# Arquivos temporários
 *.tmp
 *.temp
 *.bak
 *.swp
 *.swo
+*.log
 
-# ------------------------------------------
-# Arquivos do sistema operacional
-# ------------------------------------------
+# Sistema operacional
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# ------------------------------------------
-# Arquivos temporários do QGIS
-# ------------------------------------------
+# QGIS - arquivos temporários
 *.qgz~
 *.qgs~
 *.gpkg-shm
 *.gpkg-wal
 
-# ------------------------------------------
-# Dados brutos e grandes
-# ------------------------------------------
-
-# SoilGrids
-soilgrids/
-
-# Raster grandes
+# Dados grandes
 *.tif
 *.tiff
 *.img
 *.vrt
-
-# Arquivos auxiliares de raster
 *.ovr
 *.aux.xml
 
-# ------------------------------------------
-# Shapefiles temporários / arquivos grandes
-# ------------------------------------------
-*.shp.xml
+# SoilGrids
+soilgrids/
 
-# ------------------------------------------
-# Geodatabases / arquivos geoespaciais locais
-# ------------------------------------------
+# Geodatabases
 *.gdb/
 
-# ------------------------------------------
-# Arquivos de configuração local
-# ------------------------------------------
+# Shapefile - metadados auxiliares
+*.shp.xml
+
+# Configurações locais
 .env
 .env.*
-
-# ------------------------------------------
-# Arquivos gerados localmente
-# ------------------------------------------
-*.log
