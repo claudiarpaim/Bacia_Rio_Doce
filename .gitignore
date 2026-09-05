@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# QGIS - arquivos temporários
+*.qgz~
+*.qgs~
+*.gpkg-shm
+*.gpkg-wal
+
+# Dados grandes
+*.tif
+*.tiff
+*.img
+*.vrt
+*.ovr
+*.aux.xml
+
+# SoilGrids
+soilgrids/
+
+# Geodatabases
+*.gdb/
+
+# Shapefile - metadados auxiliares
+*.shp.xml
+
+# Configurações locais
+.env
+.env.*
