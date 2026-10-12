@@ -1,5 +1,7 @@
 # Bacia do Rio Doce — Análise Ambiental e Priorização de Áreas
 
+![Modelo de elevação e rede hidrográfica da Bacia do Rio Doce](imagens/layout_github.jpeg)
+
 ## Sobre o projeto
 Este projeto consiste na construção de um fluxo de análise espacial para integração e análise de diferentes conjuntos de dados ambientais na **Bacia Hidrográfica do Rio Doce**.
 
@@ -90,10 +92,10 @@ As pastas e os dados são incorporados ao projeto progressivamente, conforme cad
 | Etapa | Descrição                              | Status                |
 | ----: | -------------------------------------- | --------------------- |
 |    01 | Preparação da área de estudo           | 🟢 Concluída          |
-|    02 | Preparação do DEM e dados de relevo    | 🔄 Em desenvolvimento |
-|    03 | Preparação da hidrografia              | ⏳ Planejada          |
-|    04 | Preparação dos municípios              | ⏳ Planejada          |
-|    05 | Preparação do uso e cobertura da terra | ⏳ Planejada          |
+|    02 | Preparação do DEM e dados de relevo    | 🟢 Concluída          |
+|    03 | Preparação da hidrografia              | 🟢 Concluída          |
+|    04 | Preparação dos municípios              | 🟢 Concluída          |
+|    05 | Preparação do uso e cobertura da terra | 🟢 Concluída          |
 |    06 | Preparação dos dados de solo           | ⏳ Planejada          |
 |   07+ | Integração e análise dos critérios     | ⏳ Planejada          |
 
