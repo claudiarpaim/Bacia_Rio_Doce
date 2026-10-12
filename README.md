@@ -108,7 +108,7 @@ O primeiro produto consiste na delimitação e preparação da Bacia do Rio Doce
 
 ## Próximas etapas
 
-O desenvolvimento continuará com a preparação dos dados de relevo, seguida pela integração da hidrografia, municípios, uso e cobertura da terra e propriedades do solo.
+O desenvolvimento continuará com a preparação dos dados, seguida pela integração da hidrografia, relevo, municípios, uso e cobertura da terra e propriedades do solo.
 
 A etapa final deverá integrar os diferentes critérios ambientais em uma abordagem espacial de priorização.
 
