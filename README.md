@@ -1,6 +1,6 @@
 # Bacia do Rio Doce — Análise Ambiental e Priorização de Áreas
 
-![Modelo de elevação e rede hidrográfica da Bacia do Rio Doce](imagens/layout_github.jpeg)
+![Modelo de elevação e rede hidrográfica da Bacia do Rio Doce](imagens/layout_github.png)
 
 ## Sobre o projeto
 Este projeto consiste na construção de um fluxo de análise espacial para integração e análise de diferentes conjuntos de dados ambientais na **Bacia Hidrográfica do Rio Doce**.
